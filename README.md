@@ -10,7 +10,7 @@ This project has been developed and tested using [Expo Snack](https://snack.expo
 You can preview the changes directly on your phone or tablet by clicking the **Run** button or use the simulator by clicking **Tap to Play**.
 
 ## Project Installation
-	* Install `yarn` using `yarn install` or `npm` using 'npm install'.
+	* Install `yarn` using `yarn install` or `npm` using `npm install`.
 	* Install `expo` using `npm install expo`.
 
 ## Project Requirements
